@@ -1,6 +1,6 @@
 {
   "azphalt": "0.1",
-  "id": "com.hereliesaz.layer.layer-parallax-depth",
+  "id": "com.hereliesaz.azphalt.parallax-depth",
   "name": "Parallax Depth Generator",
   "version": "1.0.0",
   "kind": "asset",
