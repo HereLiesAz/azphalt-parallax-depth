@@ -6,6 +6,7 @@
   "kind": "asset",
   "license": "LicenseRef-Proprietary",
   "compat": ">=0.1",
+  "description": "Turns a flat shot into a shallow 3D scene from its depth map, then parallaxes it against the phone's gyroscope as you tilt.",
   "author": "HereLiesAz",
   "targetApps": [
     "com.hereliesaz.guillotine"
